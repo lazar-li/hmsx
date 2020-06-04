@@ -15,7 +15,7 @@ IGNORE_CHECK_LOGIN_URLS = [
     "^/static",
     "^/favicon.ico"
 ]
-
+#开始
 STATUS = {
     "1":"正常",
     "0":"已删除"
